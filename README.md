@@ -6,7 +6,7 @@
 
 detailed description.
 
-![RunningCalculator]([)](https://github.com/FrozenTea11/Portfolio/blob/main/images/Calc.png?raw=true)
+![Calculator](https://github.com/FrozenTea11/Portfolio/blob/main/images/Calc.png?raw=true)
 
 * [Windows]()
 * [MacOS]()
