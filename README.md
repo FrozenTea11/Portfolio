@@ -4,7 +4,33 @@
 
 ### Calculator (2025)
 
-detailed description.
+This project is a graphical calculator application built using the Processing framework. It features a fully interactive GUI with 10 numeric buttons (0–9) and 19 operation/function buttons. The calculator performs both basic arithmetic and advanced mathematical operations. The design emphasizes visual clarity and usability, with responsive button hover effects and dynamic display scaling for longer numbers.
+
+Key Features:
+
+Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
+
+Advanced Operations:
+
+Square root (√)
+
+Power (^)
+
+Floor (F) and Ceiling (R) functions
+
+Absolute value (||)
+
+Sign toggle (±)
+
+Decimal Support: Includes a button for decimal input.
+
+Clear Function (C): Resets all values and clears the screen.
+
+Result Display: Calculates and displays the result when = is pressed.
+
+Dynamic Display Scaling: Text size adjusts to fit longer numbers in the display area.
+
+User Interface: Each button is color-coded and responsive to mouse hover interactions.
 
 ![Calculator](https://github.com/FrozenTea11/Portfolio/blob/main/images/Calc.png?raw=true)
 
