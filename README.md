@@ -8,6 +8,6 @@ detailed description.
 
 ![Calculator](https://github.com/FrozenTea11/Portfolio/blob/main/images/Calc.png?raw=true)
 
-* [Windows]()
+* [Windows](https://github.com/FrozenTea11/Portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOS]()
 * [SourceCode]()
