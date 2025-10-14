@@ -9,28 +9,17 @@ This project is a graphical calculator application built using the Processing fr
 Key Features:
 
 * Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
-
 * Advanced Operations:
-
 * Square root (√)
-
-Power (^)
-
-Floor (F) and Ceiling (R) functions
-
-Absolute value (||)
-
-Sign toggle (±)
-
-Decimal Support: Includes a button for decimal input.
-
-Clear Function (C): Resets all values and clears the screen.
-
-Result Display: Calculates and displays the result when = is pressed.
-
-Dynamic Display Scaling: Text size adjusts to fit longer numbers in the display area.
-
-User Interface: Each button is color-coded and responsive to mouse hover interactions.
+* Power (^)
+* Floor (F) and Ceiling (R) functions
+* Absolute value
+* Sign toggle (±)
+* Decimal Support: Includes a button for decimal input.
+* Clear Function (C): Resets all values and clears the screen.
+* Result Display: Calculates and displays the result when = is pressed.
+* Dynamic Display Scaling: Text size adjusts to fit longer numbers in the display area.
+* User Interface: Each button is color-coded and responsive to mouse hover interactions.
 
 ![Calculator](https://github.com/FrozenTea11/Portfolio/blob/main/images/Calc.png?raw=true)
 
