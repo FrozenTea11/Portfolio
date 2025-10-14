@@ -8,11 +8,11 @@ This project is a graphical calculator application built using the Processing fr
 
 Key Features:
 
-Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
+* Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
 
-Advanced Operations:
+* Advanced Operations:
 
-Square root (√)
+* Square root (√)
 
 Power (^)
 
