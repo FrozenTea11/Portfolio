@@ -9,5 +9,5 @@ detailed description.
 ![Calculator](https://github.com/FrozenTea11/Portfolio/blob/main/images/Calc.png?raw=true)
 
 * [Windows](https://github.com/FrozenTea11/Portfolio/blob/main/src/Calculator/windows-amd64.zip)
-* [MacOS]()
+* [MacOS](https://github.com/FrozenTea11/Portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [SourceCode]()
