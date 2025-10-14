@@ -21,7 +21,7 @@ Key Features:
 * Dynamic Display Scaling: Text size adjusts to fit longer numbers in the display area.
 * User Interface: Each button is color-coded and responsive to mouse hover interactions.
 
-![Calculator](https://github.com/FrozenTea11/Portfolio/blob/main/images/Calc.png?raw=true)
+![Calculator](https://github.com/FrozenTea11/Portfolio/blob/main/images/Calc2.jpg?raw=true)
 
 * [Windows](https://github.com/FrozenTea11/Portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOS](https://github.com/FrozenTea11/Portfolio/blob/main/src/Calculator/macos-aarch64.zip)
