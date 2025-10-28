@@ -54,9 +54,143 @@ void draw() {
   }
   updateDisplay();
 }
+void keyPressed() {
+  println("Key:" + key);
+  println("KeyCode:" + keyCode);
+  if (keyCode == 61 || keyCode == 107) {
+    dVal = "0";
+    left = false;
+    op = "+";
+  } else if (keyCode == 45 || keyCode == 109) {
+    dVal = "0";
+    left = false;
+    op = "-";
+  } else if (keyCode == 47 || keyCode == 111) {
+    dVal = "0";
+    left = false;
+    op = "÷";
+  } else if (keyCode == 56 || keyCode == 106) {
+    dVal = "0";
+    left = false;
+    op = "×";
+  }else if (keyCode == 10) {
+      preformCalculation();
+    }
+  else if (keyCode == 67) {
+    dVal = "0";
+    left = false;
+    op = "C";
+  } else if (keyCode == 97 || keyCode == 49) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "1";
+        l = float(dVal);
+      } else {
+        dVal += "1";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 98 || keyCode == 50) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "2";
+        l = float(dVal);
+      } else {
+        dVal += "2";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 99 || keyCode == 51) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "3";
+        l = float(dVal);
+      } else {
+        dVal += "3";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 100 || keyCode == 52) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "4";
+        l = float(dVal);
+      } else {
+        dVal += "4";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 101 || keyCode == 53) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "5";
+        l = float(dVal);
+      } else {
+        dVal += "5";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 102 || keyCode == 54) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "6";
+        l = float(dVal);
+      } else {
+        dVal += "6";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 103 || keyCode == 55) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "7";
+        l = float(dVal);
+      } else {
+        dVal += "7";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 104) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "8";
+        l = float(dVal);
+      } else {
+        dVal += "8";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 105 || keyCode == 57) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "9";
+        l = float(dVal);
+      } else {
+        dVal += "9";
+        l = float(dVal);
+      }
+    }
+  } else if (keyCode == 96 || keyCode == 48) {
+    if (left == true) {
+      if (dVal.equals("0")) {
+        dVal = "0";
+        l = float(dVal);
+      } else {
+        dVal += "0";
+        l = float(dVal);
+      }
+    }
+  }
+  else if(keyCode == 110 || keyCode == 46){
+    if (dVal.contains(".") == false) {
+      dVal += ".";
+    }
+  }
+}
+
 
 void mousePressed() {
-  //calculation buttons
+  //calculation buttons+++
   for (int i = 0; i <buttons.length; i++) {
     if (buttons[i].over && buttons[i].val.equals("+")) {
       dVal = "0";
