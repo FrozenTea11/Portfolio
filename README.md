@@ -30,3 +30,16 @@ Key Features:
 
 
 HOw to insert the zips, go to processing, select file, then export, then unselect the java box, and select whatever the computer you want, then go to github src file, select upload file, then copy the link after its uploaded, then paste it into the () here in this file
+
+
+
+
+## Term 2 Projects
+
+### Fire Ice Slime Game (2025)
+
+This project is a fun and enjoyable game build using the Porcessing framework. It features one level of a dodging game, where the main focus is to survive as long as possible. This was a group project between five people.
+
+Directions:
+
+When opening the game, click play. Use the arrow keys or WASD to move around. Use the platforms to your advantage to dodge the fatal fireballs. 
