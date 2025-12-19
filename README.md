@@ -40,6 +40,8 @@ HOw to insert the zips, go to processing, select file, then export, then unselec
 
 This project is a fun and enjoyable game build using the Porcessing framework. It features one level of a dodging game, where the main focus is to survive as long as possible. This was a group project between five people.
 
+![UML](https://github.com/FrozenTea11/Portfolio/blob/main/images/Lava.png)
+
 Directions:
 
 When opening the game, click play. Use the arrow keys or WASD to move around. Use the platforms to your advantage to dodge the fatal fireballs. 
