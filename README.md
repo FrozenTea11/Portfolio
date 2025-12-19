@@ -50,5 +50,5 @@ https://frozentea11.github.io/5-fire-pool/
 
 
 ### State Certification
-![alt text](https://github.com/FrozenTea11/Portfolio/blob/main/images/12.png)
-![alt text](https://github.com/FrozenTea11/Portfolio/blob/main/images/1.png)
+![alt text](https://github.com/FrozenTea11/Portfolio/blob/main/images/12.png?raw=true)
+![alt text](https://github.com/FrozenTea11/Portfolio/blob/main/images/1.png?raw=true)
