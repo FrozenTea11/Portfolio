@@ -1,4 +1,6 @@
-# Lucas Wu's Programming Portfolio | 2025-2026
+# Lucas Wu's Portfolio | 2025-2026
+
+# Computer Programming
 
 ## Term 1 Projects
 
